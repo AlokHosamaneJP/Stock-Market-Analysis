@@ -1,7 +1,7 @@
 # Stack_Market_Analysis-GOOGLE
 
 ## Overview
-This project analyzes historical stock market data for major tech companies such as Apple (AAPL), Google (GOOG), Microsoft (MSFT), and Amazon (AMZN). By leveraging Python's data analysis and machine learning libraries, it demonstrates the process of data retrieval, exploratory data analysis (EDA), and building predictive models (e.g., LSTM for time-series forecasting).
+This project analyzes historical stock market data for major tech companies such as Apple (AAPL), Google (GOOG), Microsoft (MSFT), and Amazon (AMZN). By leveraging Python's data analysis and machine learning libraries, it demonstrates the process of data retrieval, exploratory data analysis (EDA), and building predictive models (LSTM and Linear Regression Model for time-series forecasting).
 
 ## Features
   - Data Retrieval: Automatically fetches historical stock prices using yFinance.
