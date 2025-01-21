@@ -84,5 +84,6 @@ The project includes multiple visualizations to better understand stock trends a
       Stock prices for AAPL, GOOG, MSFT, and AMZN exhibit distinct patterns, with periodic increases and drops.
       Correlations among the companies suggest strong co-movement, especially between GOOG and MSFT.
    LSTM Model Predictions:
-      - The LSTM model provides reasonably accurate predictions for the next day's stock prices.
+      - The LSTM model provides reasonably accurate predictions with an RMSE of 5.5.33 for the next day's stock prices.
+      - The Linear regression model, despite being a light model and not suited for Market predictions has given us an RMSE of 2.6967.
       - Performance is evaluated using metrics like MSE (Mean Squared Error).
