@@ -7,7 +7,7 @@ This project analyzes historical stock market data for major tech companies such
   - Data Retrieval: Automatically fetches historical stock prices using yFinance.
   - Exploratory Data Analysis (EDA): Analyzes stock trends, volatility, and statistics using Pandas, Matplotlib, and Seaborn.
   - Visualization: Generates insightful charts, such as stock price trends, moving averages, and correlation heatmaps.
-  - LSTM Model: Implements a Long Short-Term Memory (LSTM) neural network to predict future stock prices.
+  - Model: Implements a Long Short-Term Memory (LSTM) neural network and Linear Regression to predict future stock prices.
 ## Model Explanation
   1. ### Long Short-Term Memory (LSTM)
      The LSTM model is designed for time-series forecasting, making it ideal for predicting stock prices. Here's how it works:
