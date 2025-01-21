@@ -71,13 +71,18 @@ The project includes multiple visualizations to better understand stock trends a
       ![Corr](https://github.com/user-attachments/assets/a5311a66-294d-48fe-bcb1-c7c57d92e544)
       ![corr2](https://github.com/user-attachments/assets/3984aaea-b223-4640-bcc4-762038316156)
 
-  8. Model Predictions (Pred.png)
-      Description: Line plot comparing actual stock prices (training and validation data) with the model's  predictions.
+  8. Model Predictions (LSTM Model)
+      Description: Line plot comparing actual stock prices (training and validation data) with the LSTM model's  predictions.
       Purpose:
       - Evaluates how well the LSTM model predicts future stock prices.
       - Shows the effectiveness of the model in capturing historical trends.
      ![Pred](https://github.com/user-attachments/assets/f442c6e8-b1cc-4232-8e0b-524c331eb6d6)
 
+  9. Model Predictions (Linear Regression)
+       Description: Line plot comparing actual stock prices (training and validation data) with the Linear Regression model's  predictions.
+       - Evaluates how well the LSTM model predicts future stock prices.
+       - Shows the effectiveness of the model in capturing historical trends.
+       ![LR](https://github.com/user-attachments/assets/fd6de2bd-8d09-495c-996e-6d77a0eaf66d)
 
 ## Results
   Exploratory Analysis:
